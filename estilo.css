@@ -1,0 +1,13 @@
+.tabela1{
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.tabela1 td {
+    border: 1px solid #000000;
+}
+
+
+
+.livre{
+    color: white;
+}
